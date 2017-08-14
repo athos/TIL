@@ -20,7 +20,7 @@ ClojureScriptコンパイラの実装を理解するうえで、これらのう�
 |`:cljs.analyzer/namespaces`    |依存する名前空間の情報や各名前空間の解析結果を保持する。          |
 |`:cljs.analyzer/constant-table`|コンスタントテーブル。定数値から定数インデックスへのマップ。       |
 |`:cljs.analyzer/data-readers`  |タグつきリテラルのタグからリーダ実装のVarを表すシンボルへのマップ。 |
-|`:cljs.compiler/compiled-cljs` |コンパイル中韓結果のキャッシュ。                              |
+|`:cljs.compiler/compiled-cljs` |コンパイル中間結果のキャッシュ。                              |
 |`:js-dependency-index`         |シンボル間の依存関係？|
 
 この中だと`:cljs.analyzer/namespaces`が一番使いでがあって、Clojureだと`ns-*`系の関数を介して
