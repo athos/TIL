@@ -5,6 +5,7 @@
 ## Categories
 
 - [Clojure](./clojure/index.md)
+- [Java](./java/index.md)
 
 ## License
 
