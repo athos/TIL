@@ -10,6 +10,6 @@
 - [Criteriumはevalのベンチマークには使えない](criterium-cannot-be-used-for-benchmarking-eval.md) (2017-07-05)
 - [ClojureScript自身の開発のはじめかた](getting-started-with-clojurescript-development.md) (2017-06-24)
 - [Clojarsの検索APIでライブラリ登録日によるフィルタリング](clojars-query-for-search-by-created-date.md) (2017-06-03)
-- [Associativeな値の操作関数の等価な書き換え](transformations-between-combinations-of-map-fns.md) (2016-06-21)
+- [Associativeな値の操作関数の等価な書き換え](transformations-between-combinations-of-associative-fns.md) (2016-06-21)
 - [ReagentでエスケープされていないHTMLを埋め込む](embed-unescaped-html-into-reagent-dom.md) (2016-05-18)
 - [name関数は文字列を受け取る](name-function-can-accept-strings.md) (2016-05-17)
